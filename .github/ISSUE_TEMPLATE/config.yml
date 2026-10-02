@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/modelsphere/.github/blob/main/SECURITY.md
+    about: Privately, never as a public issue — use the repository's Security tab.
+  - name: Install guide
+    url: https://github.com/modelsphere/modelsphere/blob/main/docs/install.md
+    about: Installing the ModelSphere stack on Kubernetes.
