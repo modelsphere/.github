@@ -20,6 +20,7 @@ the deployment repository, with the install guide and the architecture.
 | | [slo-scaler-decision-gen](https://github.com/modelsphere/slo-scaler-decision-gen) | Turns SLO targets and live signals into replica decisions |
 | | [slo-api](https://github.com/modelsphere/slo-api) | HTTP API to read and change a service's SLO |
 | | [hang-watcher](https://github.com/modelsphere/hang-watcher) | Restarts an engine that stopped making progress |
+| | [continuation_gateway](https://github.com/modelsphere/continuation_gateway) | Resumes a streamed completion that stalls or drops mid-generation, so the client gets one complete stream |
 | Operate | [swiss](https://github.com/modelsphere/swiss) | Deploy control plane for the engine charts |
 | | [console](https://github.com/modelsphere/console) | Web console: users and roles, model deployment, playground |
 | Tune and measure | [llm-autotune](https://github.com/modelsphere/llm-autotune) | Searches serving configurations on idle GPUs |
