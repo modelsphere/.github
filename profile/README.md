@@ -1,9 +1,6 @@
-## ModelSphere
+## ModelSphere: Production-Grade Infrastructure for LLM Inference
 
-An open-source LLM inference platform for Kubernetes: deploy a model with a
-tuned configuration, route each request to the replica that already holds its
-context, scale on LLM signals and SLOs, and tune the serving configuration on
-your own workload.
+ModelSphere is an open-source LLM inference infrastructure designed to make production-grade model serving simple, efficient, and continuously optimized. It provides instant deployment across heterogeneous accelerators, stays ready for the latest models through a flexible inference architecture, and continuously improves serving performance based on real-world workloads.
 
 **Start here:** [modelsphere/modelsphere](https://github.com/modelsphere/modelsphere) —
 the deployment repository, with the install guide and the architecture.
